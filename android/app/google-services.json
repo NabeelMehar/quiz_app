@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014429829503",
+    "firebase_url": "https://quizapp-af220.firebaseio.com",
+    "project_id": "quizapp-af220",
+    "storage_bucket": "quizapp-af220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014429829503:android:4b406cf1a2505146ec724a",
+        "android_client_info": {
+          "package_name": "com.fintechllp.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014429829503-670hs9mj7tqcf424ruiu0llu77cgao91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLscc_bEl1i7If2E7790H0h2KX4Jnw-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014429829503-670hs9mj7tqcf424ruiu0llu77cgao91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
